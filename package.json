@@ -1,0 +1,20 @@
+{
+    "name": "crypto-help",
+    "version": "1.0.3",
+    "description": "A helper module for cryptocurrency operations.",
+    "main": "index.js",
+    "keywords": [
+        "crypto",
+        "currency",
+        "utility"
+    ],
+    "author": "junaidi00",
+    "license": "MIT",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/junaidi00/crypto-help.git"
+    },
+    "dependencies": {
+        "teh-ijo": "^1.0.5"
+    }
+}
